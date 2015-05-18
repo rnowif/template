@@ -2,6 +2,7 @@
 
 ```
 Node node = html(
+    lang("fr"),
     head(
         title("MyTitle")
     ),
